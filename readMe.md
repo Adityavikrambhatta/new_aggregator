@@ -2,7 +2,7 @@
 
 Project Description:
 
-This project is a news aggregator. It fetches news based on user preferences.
+This project is an API which is used to collect news from different sources and aggregate them based on user preferences.
 A user can sign using email id and password. It uses jwt to detremine the auth access time period. 
 
 This is a Node and Express based projects and other necessary NPM packages.
