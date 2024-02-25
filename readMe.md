@@ -1,4 +1,4 @@
-# task-manager
+# New Aggregator
 
 ## Project Description:
 
