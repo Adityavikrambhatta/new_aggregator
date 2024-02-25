@@ -1,6 +1,6 @@
 # task-manager
 
-Project Description:
+## Project Description:
 
 This project is an API which is used to collect news from different sources and aggregate them based on user preferences.
 A user can sign using email id and password. It uses jwt to detremine the auth access time period. 
@@ -20,7 +20,7 @@ You can get started with the project using these npm commands :
 
 
 
-Different endpoints offered by the projects are :
+## Different endpoints offered by the projects are :
 
     POST /signup      : Register a new user. 
 
@@ -31,6 +31,13 @@ Different endpoints offered by the projects are :
     PUT /preferences  : Update the news preferences for the logged-in user.
     
     GET /news         : Fetch news articles based on the logged-in user's preferences.
+
+
+
+
+## The API endpoint used to fetch the news :
+
+    https://newsapi.org/docs/endpoints/sources
 
 
 
